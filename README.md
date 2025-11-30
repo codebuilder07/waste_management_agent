@@ -1,5 +1,5 @@
 # Waste Management ADK Agent
-
+There's a second read.me file inside the folder for me detail project structure.
 Lightweight FastAPI agent that integrates with ADK, a local rule agent, and a memory service.
 
 ## Features
